@@ -20,5 +20,5 @@ Clean Code를 신입 시절에 읽어보려 했지만 중반까지만 읽어보�
 
 (책 구매 완료!)
 <br>
-![clean_code](../_imgs/clean_code/buybook.png)
+![clean_code](_imgs/clean_code/buybook.png)
 <br>
