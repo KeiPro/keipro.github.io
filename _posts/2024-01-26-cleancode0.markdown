@@ -1,0 +1,24 @@
+---
+layout: post
+title: clean-code 0.
+date: 2024-01-26 23:20:23 +0900
+category: CleanCode
+---
+
+# Clean Code 0.
+
+<br>
+
+Clean Code를 신입 시절에 읽어보려 했지만 중반까지만 읽어보고 실패했던 경험이 있다.
+이번 클린코드 챌린지를 진행하면서 책에 대해 전박적으로 다시 공부해보는 시간을 가져보려 한다.
+<br>
+(이 챌린지를 위해 jekyll로 블로그를 만들어서 github연동도 진행하게 된..?)
+<br>
+내일부터 1장 시작!
+
+<br>
+
+(책 구매 완료!)
+<br>
+![clean_code](../_imgs/clean_code/buybook.png)
+<br>
