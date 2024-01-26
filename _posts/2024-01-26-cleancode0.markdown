@@ -21,5 +21,7 @@ Clean Code를 신입 시절에 읽어보려 했지만 중반까지만 읽어보�
 (책 구매 완료!)
 <br>
 
-![clean_code]({{'/_imgs/clean_code/buybook.png' | prepend: site.baseurl}})
+<img src="/imgs/clean_code/buybook.png" alt="clean_code">
 <br>
+<br>
+(읔.. Jekyll을 이용할 경우, 폴더명 앞에 '_'을 붙이면 특별하게 처리하는 과정에 들어가게 되므로 절대 붙이지 말자.. 이미지가 안나와서 보니 imgs앞에 _를 붙였던 것 때문에 시간을 한참 쓰게 되었다...)
