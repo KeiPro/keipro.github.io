@@ -31,5 +31,11 @@ category: CleanCode
 
 <br>
 
+## 나의 최애 북틸.
+
+https://nomadcoders.co/community/thread/9236 -> 본인의 생각을 잘 써주신 것 같다.<br>
+https://nomadcoders.co/community/thread/9221 -> 깔끔하게 정리를 잘 해주신 것 같다.<br>
+https://nomadcoders.co/community/thread/9228 -> 본인의 경험을 토대로 이야기 해주신 것에 공감이 많이 갔다.<br>
+
 <br>
 #노개북 #노마드코더 #개발자북클럽
