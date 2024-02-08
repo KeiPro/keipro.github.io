@@ -51,6 +51,6 @@ category: CleanCode
 
 ## 나의 최애 북틸
 
-https://dongpark.notion.site/9-23815f9364134cc9b40c52c6dc2328c0 : 정리가 너무 깔끔하시다.
-https://nomadcoders.co/community/thread/9292 : 경험담과 함께 성장하시고 계시는 모습과 노력에 박수를 쳐드리고 싶다.
-https://nomadcoders.co/community/thread/9295 : 페이지별로 정리를 잘 해주셨다.
+[dongpark님](https://dongpark.notion.site/9-23815f9364134cc9b40c52c6dc2328c0) : 정리가 너무 깔끔하시다. <br>
+[blueskyto님](https://nomadcoders.co/community/thread/9292) : 경험담과 함께 성장하시고 계시는 모습과 노력에 박수를 쳐드리고 싶다.<br>
+[easydev님](https://nomadcoders.co/community/thread/9295) : 페이지별로 정리를 잘 해주셨다.<br>
